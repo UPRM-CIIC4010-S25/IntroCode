@@ -370,7 +370,7 @@ void formattingExample() {
     cout << "After using fixed\n";
     cout << fixed << simple_float << "\t" << complex_double << "\t" << long_double << endl;
     // Specifying the presicion
-    cout << "After setting precision to 7\n";
+    cout << "After setting precision to 7\n"; 
     cout << setprecision(9) << simple_float << "\t" << complex_double << "\t" << long_double << endl << endl;
 }
 
