@@ -16,3 +16,7 @@
 
 # Ignore VSCode configuration folder
 .vscode
+# Ignore DS_Store Mac file
+.DS_Store
+# Ignore previous version of files
+old/
